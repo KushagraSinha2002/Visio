@@ -18,3 +18,5 @@
 
 <img width="500" src = https://user-images.githubusercontent.com/68659006/209927069-73a73f78-5e3d-4361-a257-8f666af050f6.png>
 
+We have built easy and user-friendly User Interface so that Users don't get confused using our application.
+
